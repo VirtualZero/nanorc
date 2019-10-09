@@ -1,4 +1,4 @@
-nano .nanorc
+<pre>nano .nanorc</pre>
 
 add:
 
